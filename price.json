@@ -1,0 +1,267 @@
+{
+    "@": {
+        "xmlns": "http://webservices.amazon.com/AWSECommerceService/2011-08-01"
+    },
+    "OperationRequest": {
+        "RequestId": "bfdfc37b-b65e-40e4-b24d-cb6f047a1d85",
+        "Arguments": {
+            "Argument": [
+                {
+                    "@": {
+                        "Name": "ItemId",
+                        "Value": "B0087CL98K"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "ResponseGroup",
+                        "Value": "OfferFull, ItemAttributes"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Condition",
+                        "Value": "New"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "MerchantId",
+                        "Value": "Amazon"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Operation",
+                        "Value": "ItemLookup"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Service",
+                        "Value": "AWSECommerceService"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Version",
+                        "Value": "2009-10-01"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "AssociateTag",
+                        "Value": "timmknightgit-21"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Region",
+                        "Value": "UK"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Timestamp",
+                        "Value": "2015-11-01T18:16:15.521Z"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "AWSAccessKeyId",
+                        "Value": "AKIAJMDKHUMZSKL32UMQ"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Signature",
+                        "Value": "iSOKSfDod5ECJtP+EHBboccc0HjHmnJjZ/zi2JMfNOM="
+                    }
+                }
+            ]
+        },
+        "RequestProcessingTime": "0.0256620000000000"
+    },
+    "Items": {
+        "Request": {
+            "IsValid": "True",
+            "ItemLookupRequest": {
+                "Condition": "New",
+                "IdType": "ASIN",
+                "MerchantId": "Deprecated",
+                "ItemId": "B0087CL98K",
+                "ResponseGroup": [
+                    "OfferFull",
+                    "ItemAttributes"
+                ],
+                "VariationPage": "All"
+            }
+        },
+        "Item": {
+            "ASIN": "B0087CL98K",
+            "DetailPageURL": "http://www.amazon.co.uk/Philips-Groomer-BG2036-32-Attachment/dp/B0087CL98K%3FSubscriptionId%3DAKIAJMDKHUMZSKL32UMQ%26tag%3Dtimmknightgit-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0087CL98K",
+            "ItemLinks": {
+                "ItemLink": [
+                    {
+                        "Description": "Add To Wishlist",
+                        "URL": "http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB0087CL98K%26SubscriptionId%3DAKIAJMDKHUMZSKL32UMQ%26tag%3Dtimmknightgit-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB0087CL98K"
+                    },
+                    {
+                        "Description": "Tell A Friend",
+                        "URL": "http://www.amazon.co.uk/gp/pdp/taf/B0087CL98K%3FSubscriptionId%3DAKIAJMDKHUMZSKL32UMQ%26tag%3Dtimmknightgit-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB0087CL98K"
+                    },
+                    {
+                        "Description": "All Customer Reviews",
+                        "URL": "http://www.amazon.co.uk/review/product/B0087CL98K%3FSubscriptionId%3DAKIAJMDKHUMZSKL32UMQ%26tag%3Dtimmknightgit-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB0087CL98K"
+                    },
+                    {
+                        "Description": "All Offers",
+                        "URL": "http://www.amazon.co.uk/gp/offer-listing/B0087CL98K%3FSubscriptionId%3DAKIAJMDKHUMZSKL32UMQ%26tag%3Dtimmknightgit-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB0087CL98K"
+                    }
+                ]
+            },
+            "ItemAttributes": {
+                "Binding": "Personal Care",
+                "Brand": "Philips",
+                "CatalogNumberList": {
+                    "CatalogNumberListElement": "PHIBG2036/32"
+                },
+                "EAN": "5055528528647",
+                "EANList": {
+                    "EANListElement": [
+                        "5055528528647",
+                        "0012361237933",
+                        "8710103594789",
+                        "4876145043563",
+                        "6051065558658"
+                    ]
+                },
+                "Feature": [
+                    "Bodygroomer with hair pre-trimmers for all body zones below the neck",
+                    "Wet and dry: 100% waterproof",
+                    "Designed for ergonomic use and long handle for hard to reach areas",
+                    "Skin-friendly performance: hypo-allergenic shaver and pearl tips prevent skin irritation",
+                    "Three combs included for 3, 5 and 7 mm body hair lengths",
+                    "Bodygroomer with hair pre-trimmers for all body zones below the neck",
+                    "Wet and dry: 100% waterproof",
+                    "Designed for ergonomic use and long handle for hard to reach areas",
+                    "Skin-friendly performance: hypo-allergenic shaver and pearl tips prevent skin irritation",
+                    "Three combs included for 3, 5 and 7 mm body hair lengths"
+                ],
+                "ItemDimensions": {
+                    "Height": {
+                        "#": "118",
+                        "@": {
+                            "Units": "hundredths-inches"
+                        }
+                    },
+                    "Length": {
+                        "#": "1909",
+                        "@": {
+                            "Units": "hundredths-inches"
+                        }
+                    },
+                    "Width": {
+                        "#": "787",
+                        "@": {
+                            "Units": "hundredths-inches"
+                        }
+                    }
+                },
+                "Label": "Philips",
+                "ListPrice": {
+                    "Amount": "5558",
+                    "CurrencyCode": "GBP",
+                    "FormattedPrice": "£55.58"
+                },
+                "Manufacturer": "Philips",
+                "Model": "BG2036/32",
+                "MPN": "BG2036/32",
+                "PackageDimensions": {
+                    "Height": {
+                        "#": "354",
+                        "@": {
+                            "Units": "hundredths-inches"
+                        }
+                    },
+                    "Length": {
+                        "#": "976",
+                        "@": {
+                            "Units": "hundredths-inches"
+                        }
+                    },
+                    "Weight": {
+                        "#": "141",
+                        "@": {
+                            "Units": "hundredths-pounds"
+                        }
+                    },
+                    "Width": {
+                        "#": "693",
+                        "@": {
+                            "Units": "hundredths-inches"
+                        }
+                    }
+                },
+                "PackageQuantity": "1",
+                "PartNumber": "BG2036/32",
+                "ProductGroup": "Health and Beauty",
+                "ProductTypeName": "PERSONAL_CARE_APPLIANCE",
+                "Publisher": "Philips",
+                "ReleaseDate": "2012-07-02",
+                "Studio": "Philips",
+                "Title": "Philips Series 5000 Body Groomer Plus BG2036/32 with Back Hair Attachment for Easy Reach",
+                "UPC": "012361237933",
+                "UPCList": {
+                    "UPCListElement": "012361237933"
+                }
+            },
+            "OfferSummary": {
+                "LowestNewPrice": {
+                    "Amount": "3291",
+                    "CurrencyCode": "GBP",
+                    "FormattedPrice": "£32.91"
+                },
+                "TotalNew": "25",
+                "TotalUsed": "0",
+                "TotalCollectible": "0",
+                "TotalRefurbished": "0"
+            },
+            "Offers": {
+                "TotalOffers": "1",
+                "TotalOfferPages": "1",
+                "MoreOffersUrl": "http://www.amazon.co.uk/gp/offer-listing/B0087CL98K%3FSubscriptionId%3DAKIAJMDKHUMZSKL32UMQ%26tag%3Dtimmknightgit-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB0087CL98K",
+                "Offer": {
+                    "Merchant": {
+                        "Name": "Amazon.co.uk"
+                    },
+                    "OfferAttributes": {
+                        "Condition": "New"
+                    },
+                    "OfferListing": {
+                        "OfferListingId": "lPEPEYrcrL0bhOuFDxJizbeamrWe1NH%2FQuuPOH3rHqExSfZw2gQgMcMWYKrhDDlU9K2i%2BzlO58okms%2FeixmGoFVSckK5%2Fjcn",
+                        "Price": {
+                            "Amount": "3666",
+                            "CurrencyCode": "GBP",
+                            "FormattedPrice": "£36.66"
+                        },
+                        "AmountSaved": {
+                            "Amount": "1892",
+                            "CurrencyCode": "GBP",
+                            "FormattedPrice": "£18.92"
+                        },
+                        "PercentageSaved": "34",
+                        "Availability": "Usually dispatched within 24 hours",
+                        "AvailabilityAttributes": {
+                            "AvailabilityType": "now",
+                            "MinimumHours": "0",
+                            "MaximumHours": "0"
+                        },
+                        "IsEligibleForSuperSaverShipping": "1",
+                        "IsEligibleForPrime": "1"
+                    }
+                }
+            }
+        }
+    }
+}
