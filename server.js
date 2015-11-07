@@ -10,7 +10,7 @@ mongoose.connect('mongodb://localhost/pricetracker');
 var host = "http://webservices.amazon.co.uk/onca/xml"
 var prodAdvOptions = {host: "webservices.amazon.co.uk", region: "UK"};
 
-var prodAdv = aws.createProdAdvClient('AKIAJMDKHUMZSKL32UMQ', 'lxIAiU1jbixmOQuosSDdGLOi1+mOadp/ONamOuOX', 'timmknightgit-21', prodAdvOptions );
+var prodAdv = aws.createProdAdvClient('SECRET', 'SECRET', 'timmknightgit-21', prodAdvOptions );
 
 var options = {
 	ItemId: "B0087CL98K",
